@@ -1,0 +1,23 @@
+Teilaufgaben & Projektplan Pythonübung
+
+Projektidee:
+Bilderratenspiel:
+-Bildfarben werden zusammen gerechnet und Bild wird mit Durchschnittsfarbe dargestellt.
+-Durch Klicken wird das Bild in 2 Bilder aufgeteilt, die die Durchschnittsfarben der Teilbereiche darstellen. Dies ist rekursiv möglich, bis die volle Bildauflösung erreicht ist.
+-Die Bildaufteilung findet immer an der längeren Kante statt. Bei quadraten wird seitlich geteilt.
+-Die Anzahl Klicks wird gezählt.
+-Durch drücken einer Taste wird das Bild ausgeblendet und eine Reihe möglicher Bilder wird gezeigt. Aus diesen muss das korrekte ausgewählt werden.
+
+Teilaufgaben zur Bewältigung des Projekts:
+
+- Syntax
+- Objekt orientierte Programmierung
+- GUI Programmierung
+- Bildverarbeitung
+- Bildmathematik
+- Bildformatkonvertierung
+
+Hilfsmittel:
+- sublime
+- git (gitHub)
+- sublime Python Addons?
